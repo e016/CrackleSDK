@@ -13,7 +13,7 @@ For now, CrackleSDK does not have any pages for it on common browser extension s
 Go to `about:debugging`, go to `This Firefox`, click `Load Temporary Add-on...` and select the `manifest.json` file in this directory. Now, whenever you launch Snap! you should see the new addon button.
 
 ## Chrome
-Go to the "Manage Extensions" option in the extension menu [chrome://extensions/](chrome://extensions/). There should be a "Load unpacked" button at the top left. Import your CrackleSDK folder in there, and see the results.
+First, go to [chrome://extensions/](chrome://extensions/). There should be a "Developer mode" options. Simply press that, and then go to the "Manage Extensions" option/There should be a "Load unpacked" button at the top left. Import your CrackleSDK folder in there, and see the results.
 
 # How to use
 When launching Snap! with Crackle open, you should see a new button being added to the title bar:
